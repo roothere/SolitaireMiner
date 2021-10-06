@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/__Prospector_Scene_0.unity
+    guid: 777ae463bddd468449400dd689b0f516
+  - enabled: 0
+    path: Assets/Scenes/__Bartok_Scene_0.unity
+    guid: 899a2484309869b4c9498c6ca1cf38c4
+  m_configObjects: {}
